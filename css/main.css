@@ -1,4 +1,135 @@
-.a1{
+
+
+.left-text{
     color:white;
-    background-color:black;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+    margin-top:60px;
 }
+
+
+.left{
+    background-color:blue;
+    border-radius:
+    0 0 700px 0;
+    padding:100px;
+    box-shadow:0 0 0 blue;
+}
+
+h1{
+    font-size:20px;
+}
+
+h2{
+    font-size:20px;
+}
+
+#signup{
+    background-color:blue;
+    border: 1px solid white;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius:50px;
+    width:125px;
+}
+
+.right{
+    background-color:white;
+    text-align:center;
+    border-radius:
+    680px 0 0 200px;
+    
+}
+
+.right-text{
+    margin-top:80px;
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+    font-size:12px;
+   
+}
+
+h3{
+    font-size:35px;
+    font-style:bold;
+}
+
+
+#signin{
+    border-radius:20px;
+    background-color:blue;
+    color:white;
+    margin:4px 2px;
+    text-align:center;
+    display:inline-block;
+    font-size:16px;
+    border: 2px solid blue;
+    width:125px;
+}
+
+#name{
+    border-radius:20px;
+    border: 1px solid gray;
+    width:250px;
+    height:35px;
+}
+
+#email{
+    border-radius:20px;
+    border: 1px solid gray;
+    width:250px;
+    height:35px;
+}
+
+#password{
+    border-radius:20px;
+    border: 1px solid gray;
+    width:250px;
+    height:35px;
+}
+
+.facebook{
+    border-radius:50%;
+    color:black;
+    background-color:white;
+    border:1px solid gray;
+    width:50px;
+    height:50px;
+}
+
+.twitter{
+    border-radius:50%;
+    color:black;
+    background-color:white;
+    border:1px solid gray;
+    width:50px;
+    height:50px;
+}
+
+.google{
+    border-radius:50%;
+    color:black;
+    background-color:whitesmoke;
+    border:1px solid gray;
+    width:50px;
+    height:50px;
+}
+
+.linkedin{  
+    border-radius:50%;
+    color:black;
+    background-color:whitesmoke;
+    border:1px solid gray;
+    width:50px;
+    height:50px;
+}
+
+.ellipse{
+    height:480px;
+    width:480px;
+}
+
+
